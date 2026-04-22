@@ -3600,13 +3600,3 @@ section, div {
     display: block;
     margin: 0 auto;
 }
-.post-info {
-  margin-left: 60px;
-}
-
-/* Mobile fix */
-@media (max-width: 768px) {
-  .post-info {
-    margin-left: -60px; /* or 0 if you want fully aligned */
-  }
-}
