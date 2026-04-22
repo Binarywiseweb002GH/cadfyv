@@ -3607,6 +3607,6 @@ section, div {
 /* Mobile fix */
 @media (max-width: 768px) {
   .post-info {
-    margin-left: 10px; /* or 0 if you want fully aligned */
+    margin-left: -60px; /* or 0 if you want fully aligned */
   }
 }
